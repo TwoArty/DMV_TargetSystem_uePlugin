@@ -25,6 +25,7 @@ public class DMV_TargetSystem : ModuleRules
 			{
 				"Core",
 				"Engine",
+				"GameplayTags",
 			}
 			);
 			
